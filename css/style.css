@@ -1,0 +1,5 @@
+.hidden {
+  display: none;
+}
+/* class에 이 이름을 부여하면 숨기게 된다. hide elements */
+/* login 했을 때 숨기게 하는 걸 만들기 위해 작성 */
